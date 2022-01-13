@@ -1,0 +1,19 @@
+import UIKit
+
+var greeting = "Hello, playground"
+
+//create a Student structure
+
+
+//Create studentID as a property with default value 0
+
+
+
+
+//create instance of Student
+
+
+//access properties and assing new value 101
+
+
+//print Student Id: 101
